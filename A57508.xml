@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A rod for the rebellious and a reward for the obedient</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57508</idno><idno type="EEBO-CITATION">11248255</idno>
+  <idno type="VID">47117</idno>
+  <idno type="EEBO-PROQUEST">2240942602</idno>
+  
+            <idno type="STC">Wing R1768A</idno>
+            <idno type="STC">ESTC R30128</idno>
+            <idno type="OCLC">11248255</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57508)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47117)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1449:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A rod for the rebellious and a reward for the obedient</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas William,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLX [1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47117:1"/>
+            <p>A ROD <hi>FOR THE</hi> REBELLIOUS; AND A REVVARD <hi>FOR THE</hi> OBEDIENT.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas William.</hi> MDCLX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:47117:2"/>
+            <pb n="3" facs="tcp:47117:2"/>
+            <head>A ROD FOR THE <hi>REBELLIOUS;</hi> AND A REWARD FOR THE OBEDIENT.</head>
+            <p>FOrasmuch as divers Persons, who lately Acted as a Com<g ref="char:EOLhyphen"/>mittee of Safety, and sate at the Council of Officers held at <hi>Whitehall, Wallingfordhouse,</hi> and elsewhere since their forcible Interruption of the Parliament, were so bold and hardy as to take upon Them the Power of Vacating and Dissanulling Acts of Parliament; granting Commissions to raise Forces and Money, to Levy War against the Parliament, Impo<g ref="char:EOLhyphen"/>sing Free-Quarter on the Free People of this Nation without Authority of Parliament, contrary to the known Laws of the Land; Have thereby, in strictness of Law, Forfeited their Lives and Estates, as Rebels and Traytors, worthy to be confiscated for pay of the misled Souldiers, and other publique Debts, and In<g ref="char:EOLhyphen"/>volved
+<pb n="4" facs="tcp:47117:3"/>all others that Acted with, by, and under Them, and by pretended Authority derived from Them in the same Guilt, and Subject to the like Punishments. And for that it would prove an Incouragement to them and others of the like unstable Rebel<g ref="char:EOLhyphen"/>lious Principles and Spirits, destructive to all Government and Authorities, upon any occasion offered to them in time to come, to attempt the like evil practices, if they should not onely escape unpunished in their Persons and Estates, but be also permitted to enjoy the equal Priviledges, Liberties and Immunities; which others the true and faithfull Friends and Adherents to the <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> and the publique Cause and Interest of the Nation; and those Eminent Assertors of the undoubted Rights, Liberties, and Priviledges of the People, so long contended for, which the afore<g ref="char:EOLhyphen"/>said Apostates and Changlings, to accomplish their own Ambition Pride, Malice, and Sinister Designes, by private and open Deeds, Councels, and Machinations, endeavoured to destroy and Sub<g ref="char:EOLhyphen"/>vert, and to introduce an Arbitrary, Tyranical, Military Govern<g ref="char:EOLhyphen"/>ment, Laws and Constitutions of their own contrivance, without any colour of Law or Authority for their so doing. We do humbly conceive it necessary, and a duty incombent on the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> to Impose upon them their marks of Displeasure for, and detestation of, their evil Actions, thereby to prevent them from all Opportunities to get into Power and Authority, to disturbe and obstruct our future Peace, Settlement, and Wellfare; really intended to be wrought by this Parliament for this divided, distructed, oppressed, Nation: which is endeavoured by Jesuits, Papists, and other Seminaries of sedition and division, to be made a prey to Forraign Powers, and other Intestine Enemies, to our Peace, Traffique and Tranquillity.</p>
+            <div type="part">
+               <pb n="5" facs="tcp:47117:3"/>
+               <p>It is humbly proposed,
+<list>
+                     <item>1. THat the Persons aforesaid be Voted uncapable, for 7 years or some other certain time, to bear any Offi<g ref="char:EOLhyphen"/>ces of Power or Trust, Military or Civil, within this Common<g ref="char:EOLhyphen"/>wealth; they having secluded all our Legislators, except a few Changlings and Wordlings of their own Party, from all publick Employments during the six years Reigne of <hi>Oliver</hi> and <hi>Richard.</hi> And that honest, faithful, and obedient Persons, constant to their Resolution and Ingagements, be entrusted in publique places.</item>
+                     <item>2. That the Persons aforesaid be disabled to be elected Repre<g ref="char:EOLhyphen"/>sentatives in this or the next succeeding <hi>Parliament</hi> and Council, whereby they may taste of Subjection as well as Power, and a tri<g ref="char:EOLhyphen"/>all made of their future Obedience and Conformity to the su<g ref="char:EOLhyphen"/>pream Authority and Lawes of the Nation, which they have di<g ref="char:EOLhyphen"/>vers times highly violated, and laboured to subvert, during those many years they have arbitrarily reigned over us.</item>
+                  </list>
+               </p>
+               <p>Otherwise the said Capital Offenders, and their Parryes, by their Interest, Friends, Confederates, and Adherents, will be la<g ref="char:EOLhyphen"/>bouring to procure themselves to be elected to sit in the supream Authority and Councils of the Nation, to frame and execute new Designs, and <hi>ƲANE</hi> Imaginations, tending to the imbroyl<g ref="char:EOLhyphen"/>ing again of the Nation in Bloud and Confusion, which our wise <hi>Senators</hi> ought, by all lawful and prudent meanes, seasonably to prevent, according to the wholesome Rules and Maximes of a well-governed Common-wealth.</p>
+               <p>For by the same Reason and Policy of State, the <hi>Cavaliers</hi> are secluded from bearing Offices and places of Trust, ought the Persons aforesaid be debarred for some time from a Capacity of being entrusted, having so often violated their Promises and Oaths, made in the face of the Nation, notwithstanding their seeming Repentance and publick Avowing thereafter to continue
+<pb n="6" facs="tcp:47117:4"/>their Obedience and Fidelity to their Masters the <hi>Parliament,</hi> from whom they received their Commissions, and acknowledg<g ref="char:EOLhyphen"/>ed Them the Supream Authority of the Nation, yet, immediate<g ref="char:EOLhyphen"/>ly forgetting their Faith, Duty, and great Obligations, have (without the fear of God or Man, or any respect had to Religion, Laws, or any thing that is called sacred) in so transcendent a manner renued their former Disobedience and Defection, and perpetrated more heinous Crimes than those they formerly pro<g ref="char:EOLhyphen"/>fessed to repent and be ashamed of, and have debauched and drawn into their Party and Confederacy divers other Faith-break<g ref="char:EOLhyphen"/>ers, in hopes of Gain and worldly Preferments; who, as they did partake in their Actions, ought to bear an equal share in their Punishments.</p>
+            </div>
+            <div type="postscript">
+               <head>POST-SCRIPT.</head>
+               <p>WHether the Disfranchising of <hi>Alderman Titchborn</hi> and <hi>Alderman Ireton,</hi> and the making of them uncapable of Sitting in the Councils of the City of <hi>London,</hi> would not be a just Reward for their Perfidiousness and Rebelli<g ref="char:EOLhyphen"/>on, and give Satisfaction and Content to the Citizens.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:47117:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
